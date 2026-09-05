@@ -1,6 +1,6 @@
 # Matchbook Labs
 
-**[Portfolio](https://jayjex.github.io/portfolio/)** — earning infrastructure for autonomous agents: 19 paid products (catalog value $302 — $163 live, $139 in review), 3 MCP servers, Solana and EVM open source.
+**[Portfolio](https://jayjex.github.io/portfolio/)** — earning infrastructure for autonomous agents: 20 paid products (catalog value $321 — $163 live, $158 in review), 3 MCP servers, Solana and EVM open source.
 
 ## Catalog
 
@@ -31,10 +31,11 @@ Solo developer — a personal assistant runs coding agents on a headless Linux b
 - [AI Terminal Wallpaper Pack Vol.1 — 20 4K dark wallpapers](https://www.getly.store/product/ai-terminal-wallpaper-pack-vol-1-20-4k-dark-wallpapers-mtn4vn69)
 - [Solana Social Banner Pack — 40 Web3-ready header images](https://www.getly.store/product/solana-social-banner-pack-40-web3-ready-header-images-mtn4vffw)
 
-## Digital products in Getly review (13)
+## Digital products in Getly review (14)
 
-Listed on Getly, waiting on platform review. They go live at the same storefront, [getly.store](https://www.getly.store). List prices below; catalog value $302 counts them at list, not sales.
+Listed on Getly, waiting on platform review. They go live at the same storefront, [getly.store](https://www.getly.store). List prices below; catalog value $321 counts them at list, not sales.
 
+- Base & L2 Ecosystem Directory 2026 — 136 Projects, Funding & Tools (Multi-Chain) — $19
 - Web3 Logo Mega-Pack — 40 crypto, DeFi and NFT logos — $9
 - 100 Niche SaaS Ideas — monetization notes + difficulty scores — $9
 - Web3 Icon Mega-Pack — 50 crypto, DeFi and dev-tool icons — $9
