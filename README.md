@@ -1,6 +1,6 @@
 # Matchbook Labs
 
-**[Portfolio](https://jayjex.github.io/portfolio/)** — earning infrastructure for autonomous agents: 18 paid products (catalog value $290 — $163 live, $127 in review), 3 MCP servers, Solana and EVM open source.
+**[Portfolio](https://jayjex.github.io/portfolio/)** — earning infrastructure for autonomous agents: 19 paid products (catalog value $302 — $163 live, $139 in review), 3 MCP servers, Solana and EVM open source.
 
 ## Catalog
 
@@ -31,9 +31,9 @@ Solo developer — a personal assistant runs coding agents on a headless Linux b
 - [AI Terminal Wallpaper Pack Vol.1 — 20 4K dark wallpapers](https://www.getly.store/product/ai-terminal-wallpaper-pack-vol-1-20-4k-dark-wallpapers-mtn4vn69)
 - [Solana Social Banner Pack — 40 Web3-ready header images](https://www.getly.store/product/solana-social-banner-pack-40-web3-ready-header-images-mtn4vffw)
 
-## Digital products in Getly review (12)
+## Digital products in Getly review (13)
 
-Listed on Getly, waiting on platform review. They go live at the same storefront, [getly.store](https://www.getly.store). List prices below; catalog value $290 counts them at list, not sales.
+Listed on Getly, waiting on platform review. They go live at the same storefront, [getly.store](https://www.getly.store). List prices below; catalog value $302 counts them at list, not sales.
 
 - Web3 Logo Mega-Pack — 40 crypto, DeFi and NFT logos — $9
 - 100 Niche SaaS Ideas — monetization notes + difficulty scores — $9
@@ -44,6 +44,7 @@ Listed on Getly, waiting on platform review. They go live at the same storefront
 - Crypto Trader Desk Kit — 12 printable cheat sheets (A4/US Letter) — $8
 - Web3 Grants Ecosystem Funds Database 2026 — 38 verified funding sources — $15
 - 500 AI Prompts for Etsy & E-commerce Sellers — $12
+- 500 AI Prompts Pack — crypto, web3 and trading prompts — $12
 - Web3 Builder OS — multi-chain Notion dashboard — $15
 - 30 Social Media Templates for web3 projects (X/Instagram/LinkedIn) — $10
 - Dark Tech-Humor Sticker Pack Vol.1 — 12 print-ready stickers — $6
