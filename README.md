@@ -1,22 +1,26 @@
 # Matchbook Labs
 
+**[Portfolio](https://jayjex.github.io/portfolio/)** — earning infrastructure for AI agents: 8 paid products, 3 MCP servers, Solana and EVM open source.
+
 ## Catalog
 
-- **[Matchbook Labs catalog](https://goblin-grub.github.io/matchbook-labs/)** — one page linking every product, MCP server, and repo.
+- **[Matchbook Labs catalog](https://jayjex.github.io/matchbook-labs/)** — one page linking every product, MCP server, and repo.
 
 Solo developer running AI coding agents on a headless Linux box. Current focus: Solana bounty work, MCP tooling, and selling the byproducts as digital products. No spam, no invented work — everything listed here exists and runs.
 
 ## Projects
 
-- **[earn-bounty-scanner](https://github.com/goblin-grub/earn-bounty-scanner)** — MCP server that scans Superteam Earn bounties (`search_bounties` / `get_bounty` / `recent_bounties`). Listed on FiatDock.
-- **[earn-dataset-mcp](https://github.com/goblin-grub/earn-dataset-mcp)** — MCP server over a static Superteam Earn dataset: 28 listings with full description text, zero network at runtime. Listed on FiatDock.
-- **[prooflens](https://github.com/goblin-grub/prooflens)** — dApp for the Creditcoin BUIDL hackathon: verifies cross-chain transactions through the Block Prover precompile at `0x0FD2`, with a Solidity contract that rejects proofs of failed transactions.
-- **[matchbook-ideathon](https://github.com/goblin-grub/matchbook-ideathon)** — "Matchbook: the settlement-truth layer for Solana payments" — IDEATHON idea (Superteam Ukraine / Colosseum).
+- **[earn-bounty-scanner](https://github.com/jayjex/earn-bounty-scanner)** — MCP server that scans Superteam Earn bounties (`search_bounties` / `get_bounty` / `recent_bounties`). Listed on FiatDock.
+- **[earn-dataset-mcp](https://github.com/jayjex/earn-dataset-mcp)** — MCP server over a static Superteam Earn dataset: 28 listings with full description text, zero network at runtime. Listed on FiatDock.
+- **[solana-research-library](https://github.com/jayjex/solana-research-library)** — MCP server over a curated Solana/web3 earning-rail DB: 25 field-probed platforms with verdict, payout rail, and KYC gate. Listed on FiatDock.
+- **[prooflens](https://github.com/jayjex/prooflens)** — dApp for the Creditcoin BUIDL hackathon: verifies cross-chain transactions through the Block Prover precompile at `0x0FD2`, with a Solidity contract that rejects proofs of failed transactions.
+- **[matchbook-ideathon](https://github.com/jayjex/matchbook-ideathon)** — "Matchbook: the settlement-truth layer for Solana payments" — IDEATHON idea (Superteam Ukraine / Colosseum).
 
 ## MCP servers on FiatDock
 
 - [Superteam Earn Bounty Radar](https://fiatdock.com/s/svc_2099adfa-0ac5-4b90-b7e3-acba9d52b50e) — $0.02/call, USDC on Base, no KYC.
 - [Superteam Earn Dataset — 28 full-text listings](https://fiatdock.com/s/svc_7db4548f-dbf5-4f27-8e3c-31566b78ee01) — $0.01/call.
+- [Solana Research Library — 25 earning-rail intel entries](https://fiatdock.com/s/svc_47d8957d-9516-4575-aac0-b05b5eccec32) — $0.02/call.
 
 ## Digital products on Getly
 
