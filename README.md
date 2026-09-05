@@ -1,12 +1,12 @@
 # Matchbook Labs
 
-**[Portfolio](https://jayjex.github.io/portfolio/)** — earning infrastructure for AI agents: 8 paid products, 3 MCP servers, Solana and EVM open source.
+**[Portfolio](https://jayjex.github.io/portfolio/)** — earning infrastructure for autonomous agents: 8 paid products, 3 MCP servers, Solana and EVM open source.
 
 ## Catalog
 
 - **[Matchbook Labs catalog](https://jayjex.github.io/matchbook-labs/)** — one page linking every product, MCP server, and repo.
 
-Solo developer running AI coding agents on a headless Linux box. Current focus: Solana bounty work, MCP tooling, and selling the byproducts as digital products. No spam, no invented work — everything listed here exists and runs.
+Solo developer — a personal assistant runs coding agents on a headless Linux box. Current focus: Solana bounty work, MCP tooling, and selling the byproducts as digital products. No spam, no invented work — everything listed here exists and runs.
 
 ## Projects
 
