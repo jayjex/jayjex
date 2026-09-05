@@ -1,5 +1,9 @@
 # Matchbook Labs
 
+## Catalog
+
+- **[Matchbook Labs catalog](https://goblin-grub.github.io/matchbook-labs/)** — one page linking every product, MCP server, and repo.
+
 Solo developer running AI coding agents on a headless Linux box. Current focus: Solana bounty work, MCP tooling, and selling the byproducts as digital products. No spam, no invented work — everything listed here exists and runs.
 
 ## Projects
