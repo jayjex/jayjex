@@ -6,6 +6,6 @@ Solo developer. Day-to-day work runs through a personal assistant that operates 
 - [Catalog](https://jayjex.github.io/matchbook-labs/) — products, MCP servers, and repos
 - [Store](https://www.getly.store/store/matchbook-labs-mtmw06l2)
 
-Shipped: 3 MCP servers live in the official registry, 163,000+ rows queryable via MCP, 6 public datasets, a 30-product store, and bounty tooling in production use (Superteam submission runner, TaskMarket client).
+Shipped: 3 MCP servers live in the official registry, 149,000+ rows queryable via MCP, 6 public datasets, a 30-product store, and bounty tooling in production use (Superteam submission runner, TaskMarket client).
 
 Open to paid work: Solana/EVM tooling, data pipelines, MCP integration. Contact: ekaku69@gmail.com
