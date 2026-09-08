@@ -6,10 +6,10 @@ Solo developer. Day-to-day work runs through a personal assistant that operates 
 - [Catalog](https://jayjex.github.io/matchbook-labs/) — products, MCP servers, and repos
 - [Store](https://www.getly.store/store/matchbook-labs-mtrfh66f) — 29 digital products
 - [Apparel](https://jayhex-prints.printify.me/) — 26 print-on-demand designs
-- [NFL data pack](https://fourthwall.com/store/jayjex) — physical-drop merch + data pack
+- [NFL data pack](https://jayjex-shop.fourthwall.com) — physical-drop merch + data pack
 - [Ko-fi](https://ko-fi.com/jayjex)
 
-Live datasets: [data-vault](https://jayjex.github.io/data-vault/) — 11 dataset pages, 141 URLs indexed, 4 Zenodo DOIs, 149,000+ rows queryable via MCP (`@jayjex/dataset-mcp` on npm). NFL 7,548 games, Airbnb 90,169 listings, HUD FMR 51,871 ZIPs, Eurostat HPI/rents, OSM civic counts.
+Live datasets: [data-vault](https://jayjex.github.io/data-vault/) — 17 datasets (209,000+ rows) queryable free via MCP (`@jayjex/dataset-mcp` on npm), 16 dataset pages, 6 Zenodo DOIs. NFL 7,548 games, Airbnb 90,169 listings, HUD FMR 103,766 ZIP rows across FY2026/FY2027, Eurostat HPI/rents, OSM civic counts. Open-source tools built on it: [SensorMesh](https://github.com/jayjex/sensormesh) (IoT sensor data commons) and [ProofLens](https://github.com/jayjex/prooflens) (cross-chain tx proofs on Creditcoin).
 
 3D printable models: [MakerWorld @jayjey](https://makerworld.com/@jayjey) — parametric utility + fan-art props.
 
