@@ -11,4 +11,4 @@ Solo developer behind Matchbook Labs. I build the data packs, MCP servers, and p
   npm install -g @jayjex/pdfcheck-mcp
   ```
 
-- Stores: [Getly](https://www.getly.store/store/matchbook-labs-mtrfh66f), [jayjex-shop.fourthwall.com](https://jayjex-shop.fourthwall.com) (66 offers) and [datavaultdesk.sell.app](https://datavaultdesk.sell.app) (14 live listings)
+- Stores: [Getly](https://www.getly.store/store/matchbook-labs-mtrfh66f), [jayjex-shop.fourthwall.com](https://jayjex-shop.fourthwall.com) (66 offers) and [datavaultdesk.sell.app](https://datavaultdesk.sell.app) (13 live listings)
